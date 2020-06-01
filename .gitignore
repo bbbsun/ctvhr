@@ -1,0 +1,5 @@
+# Project exclude paths
+/ctvhrserver/ctvhr-mapper/target/
+/ctvhrserver/ctvhr-model/target/
+/ctvhrserver/ctvhr-service/target/
+/ctvhrserver/ctvhr-web/target/

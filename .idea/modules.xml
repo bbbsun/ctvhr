@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ctvhr.iml" filepath="$PROJECT_DIR$/ctvhr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctvhrserver/ctvhr-mapper/ctvhr-mapper.iml" filepath="$PROJECT_DIR$/ctvhrserver/ctvhr-mapper/ctvhr-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctvhrserver/ctvhr-model/ctvhr-model.iml" filepath="$PROJECT_DIR$/ctvhrserver/ctvhr-model/ctvhr-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctvhrserver/ctvhr-service/ctvhr-service.iml" filepath="$PROJECT_DIR$/ctvhrserver/ctvhr-service/ctvhr-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctvhrserver/ctvhr-web/ctvhr-web.iml" filepath="$PROJECT_DIR$/ctvhrserver/ctvhr-web/ctvhr-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctvhrserver/ctvhrserver.iml" filepath="$PROJECT_DIR$/ctvhrserver/ctvhrserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailserver/mailserver.iml" filepath="$PROJECT_DIR$/mailserver/mailserver.iml" />
+    </modules>
+  </component>
+</project>
